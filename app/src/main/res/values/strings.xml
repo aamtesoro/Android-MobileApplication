@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Your Guide</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_view_on_map">Map</string>
+    <string name="title_activity_journey_planner">Map</string>
+    <string name="title_activity_nearest_hospital">Map</string>
+    <string name="title_activity_nearest_restaurants">Map</string>
+    <string name="title_activity_nearest_accommodation">Map</string>
+    <string name="title_activity_journeytohere">Map</string>
+</resources>
